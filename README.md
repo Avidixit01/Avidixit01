@@ -1,7 +1,8 @@
-[MasterHead](https://tenor.com/view/banner-gif-22389167)
+[![MasterHead](https://c.tenor.com/6aSncIN19j8AAAAC/banner.gif)]
 <h1 align="center">Hi 👋, I'm avinash dixit</h1>
 <h3 align="center">A passionate about coding from India</h3>
-<img align=“right” alt=“coding” width=“400”  src=“https://gfycat.com/ringedinformalafricanporcupine”>
+<img align="right" alt="Coding" width="400" src="https://38.media.tumblr.com/f0f2514e14fcafeef53453070ddbf5eb/tumblr_neo0zp9PWA1shpedgo1_500.gif">
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=avidixit01" alt="avidixit01" /></a> </p>
 
