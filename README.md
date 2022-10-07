@@ -1,7 +1,7 @@
 [![MasterHead](https://c.tenor.com/6aSncIN19j8AAAAC/banner.gif)]
 <h1 align="center">Hi 👋, I'm avinash dixit</h1>
 <h3 align="center">A passionate about coding from India</h3>
-<img align="right" alt="Coding" width="1000" src="https://38.media.tumblr.com/f0f2514e14fcafeef53453070ddbf5eb/tumblr_neo0zp9PWA1shpedgo1_500.gif">
+<img align="right" alt="Coding" width="1000" src="https://gfycat.com/unfitpitifulhoatzin">
 
 
 
