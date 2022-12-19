@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **web development**
 
-- 🤝 I’m looking for help with **c,c++**
+- 🤝 I’m looking for help with **PYTHON**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Avidixit01](https://github.com/Avidixit01)
 
